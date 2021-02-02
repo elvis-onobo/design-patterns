@@ -1,5 +1,7 @@
 /**
- * The async await generator can be used to 
+ * The async await generator 
+ * 
+ * Generators give us pausable iterators
  */
 const { readdir, readFile, writeFile } = require('fs')
 const { join } = require('path')
