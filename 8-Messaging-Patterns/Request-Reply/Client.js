@@ -1,4 +1,4 @@
-const Socket = require("ws");
+const Socket = require("ws")
 const uuid = require("uuid")
 
 class Client {
